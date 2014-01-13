@@ -1,0 +1,1 @@
+I hardly use this, but the theme template generator at [Underscores.me](http://www.underscores.me/) always includes it.

@@ -1,0 +1,1 @@
+Images start at root and output to /o
