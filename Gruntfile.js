@@ -20,7 +20,7 @@ module.exports = function(grunt) {
                 files: {
                     // I like to keep the jQuery library separate from the plugins
                     'js/plugins.min.js': 'js/plugins.js',
-                    'js/jquery.min.js': 'js/jquery.js'
+                    'js/jquery.min.js': 'js/jQuery.js'
                 }
             }
         },
