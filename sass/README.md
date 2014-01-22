@@ -1,1 +1,1 @@
-You should go grab this: [Sass-Starter](https://github.com/asrmsi/sass-starter)
+You should go grab this: [Sass-Start-Lite](https://github.com/asrmsi/sass-start-lite)
